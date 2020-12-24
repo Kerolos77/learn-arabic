@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorsolid">#ffff</color>
+    <color name="fontcolor3">#3700B3</color>
+    <color name="fontcolor4">#03DAC5</color>
+    <color name="mainstart">#B301FD0B</color>
+    <color name="maincenter">#B356FD5D</color>
+    <color name="mainend">#B395F699</color>
+    <color name="btnstart">#FD0000</color>
+    <color name="btnend">#FF3535</color>
+    <color name="colorstrok">#FF0049</color>
+    <color name="fontcolor1">#000000</color>
+    <color name="fontcolor2">#FF0049</color>
+</resources>
